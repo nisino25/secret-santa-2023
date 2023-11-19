@@ -42,7 +42,7 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 body{
-  margin: 0; 
+  margin: 0;
 }
 .background {
   /* background-image: url('../public/assets/images/background.png'); */
