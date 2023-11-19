@@ -33,7 +33,7 @@ export default {
   },
   methods: {
     slideBackground() {
-      this.showLeft = !this.showLeft;
+      this.showLeft = !this.showLeft; 
     },
   },
 };
@@ -53,7 +53,7 @@ body{
 
   max-width: 450px;
   max-height: 900px;
-  margin: auto;
+  margin: autoç;
 }
 
 .button-container{
