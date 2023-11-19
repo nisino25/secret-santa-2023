@@ -49,7 +49,11 @@ body{
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../public/assets/images/background.png');
   width: 100%;
   position: relative;
-  background-size: 150% 100vh;
+  background-size: 150% 100%;
+
+  max-width: 450px;
+  max-height: 900px;
+  margin: auto;
 }
 
 .button-container{
